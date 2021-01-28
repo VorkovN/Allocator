@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Allocator.dir/main.c.o CMakeFiles/Allocator.dir/src/mem.c.o CMakeFiles/Allocator.dir/src/mem_debug.c.o CMakeFiles/Allocator.dir/src/util.c.o  -o Allocator 
